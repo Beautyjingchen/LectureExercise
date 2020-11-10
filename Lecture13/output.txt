@@ -1,0 +1,30 @@
+Question 1 (melanogaster or simulans): Drosophila melanogaster kdy647
+Question 2 (seqlength >90 and <110): Drosophila melanogaster kdy647
+Question 3 (FAIL): Drosophila melanogaster kdy647
+Question 4 (FAIL): Drosophila melanogaster kdy647
+Question 5 (AT content status): kdy647 high
+Question 1 (melanogaster or simulans): Drosophila melanogaster jdg766
+Question 2 (FAIL): Drosophila melanogaster jdg766
+Question 3 (FAIL): Drosophila melanogaster jdg766
+Question 4 (FAIL): Drosophila melanogaster jdg766
+Question 5 (AT content status): jdg766 medium
+Question 1 (melanogaster or simulans): Drosophila simulans kdy533
+Question 2 (FAIL): Drosophila simulans kdy533
+Question 3 (FAIL): Drosophila simulans kdy533
+Question 4 (names start with k or h, not melanogaster): Drosophila simulans kdy533
+Question 5 (AT content status): kdy533 medium
+Question 1 (FAIL): Drosophila yakuba hdt739
+Question 2 (FAIL): Drosophila yakuba hdt739
+Question 3 (FAIL): Drosophila yakuba hdt739
+Question 4 (names start with k or h, not melanogaster): Drosophila yakuba hdt739
+Question 5 (AT content status): hdt739 low
+Question 1 (FAIL): Drosophila ananassae hdu045
+Question 2 (FAIL): Drosophila ananassae hdu045
+Question 3 (FAIL): Drosophila ananassae hdu045
+Question 4 (names start with k or h, not melanogaster): Drosophila ananassae hdu045
+Question 5 (AT content status): hdu045 medium
+Question 1 (FAIL): Drosophila ananassae teg436
+Question 2 (seqlength >90 and <110): Drosophila ananassae teg436
+Question 3 (AT content <0.5, expr > 200): Drosophila ananassae teg436
+Question 4 (FAIL): Drosophila ananassae teg436
+Question 5 (AT content status): teg436 medium
