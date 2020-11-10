@@ -1,0 +1,22 @@
+#!/usr/bin/python3
+def get_percentage(protein,aa):
+    aa_count=protein.upper().count(aa.upper())
+    protein_length=len(protein)
+    percentage=(aa_count/protein_length)*100
+    return percentage
+
+
+
+def count_undetermined_5(dna,threshold=0.1):
+    total_undetermined = len(dna.upper().replace('A',"").replace('T',"").replace('G',"").replace('C',""))
+    prop_undetermined = total_undetermined / len(dna)
+
+
+protein = "MSRSLLLRFLLFLLLLPPLP"
+aa = "R"
+output=get_percentage(protein,aa)
+print(output)    
+assert get_percentage("MSRSLLLRFLLFLLLLPPLP", "M") == 5
+assert get_percentage("MSRSLLLRFLLFLLLLPPLP", "r") == 10
+assert get_percentage("msrslllrfllfllllpplp", "L") == 50
+assert get_percentage("MSRSLLLRFLLFLLLLPPLP", "Y") == 0 
